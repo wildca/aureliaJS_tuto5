@@ -1,0 +1,4 @@
+
+command: au run 
+
+url : "https://www.jujens.eu/category/aurelia.html"
