@@ -15,3 +15,4 @@ RSS reader application.
 2. Make it selectable by adding it to the `SelectableBackend` enum.
 test
 test
+rest
